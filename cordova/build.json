@@ -1,0 +1,10 @@
+{
+  "android": {
+    "release": {
+      "keystore": "kpy_app-release.key.keystore",
+      "alias": "kpy_app",
+      "storePassword": "_xy_kpy_app_123",
+      "password": "_xy_kpy_app_123"
+    }
+  }
+}
